@@ -1,6 +1,8 @@
 /build
+/dist
 /__pycache__
 /wordlists
 /src/__pycache__
 data.json
 wordlists.json
+*.spec
